@@ -1,0 +1,34 @@
+const BotRole = {
+    GLOBAL: 'GLOBAL',
+    BUILDER: 'BUILDER',
+    TOWER: 'TOWER',
+    CLAIMER: 'CLAIMER',
+    RECYCLER: 'RECYCLER',
+    CARRY: 'CARRY',
+    MINER: 'MINER',
+    EXTRACTOR: 'EXTRACTOR',
+    // ALL: 'ALL',
+    UNIT: 'UNIT',
+    ATACKER: 'ATACKER',
+    NONE: 'NONE',
+    // Colon
+    CRISTOBAL: 'CRISTOBAL',
+    RODRIGO: 'RODRIGO',
+    EXPLORER: 'EXPLORER',
+    GUARD: 'GUARD',
+    CARRY_COLON: 'CARRY_COLON',
+    // Capture
+    EDEN: 'EDEN',
+    BREAKER: 'BREAKER',
+    TANK: 'TANK',
+    STARTER: 'STARTER',
+    WARRIOR: 'WARRIOR',
+    BAG: 'BAG',
+    HEALER: 'HEALER',
+    TRANSPORTER: 'TRANSPORTER',
+    GOUROU: 'GOUROU',
+    COLONIES_TRANSPORTER: 'COLONIES_TRANSPORTER',
+
+};
+
+module.exports = BotRole;

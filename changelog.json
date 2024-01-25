@@ -1,0 +1,10 @@
+{
+  "1.0.1": [""],
+  "1.0.2": [
+    "remove pickup on room exit",
+    "change throttle for city feat",
+    "opti feat timing",
+    "reduce builder cpu usage",
+    "add perso server for grunt"
+  ]
+}

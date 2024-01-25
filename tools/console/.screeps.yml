@@ -1,0 +1,5 @@
+servers:
+  main:
+    host: screeps.com
+    secure: true
+    token: 'token'

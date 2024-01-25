@@ -1,0 +1,152 @@
+{
+  "ok": 1,
+  "data": {
+    "creeps": {
+      "57717710": {
+        "role": "GLOBAL",
+        "action": "EVEN",
+        "source": "55db34afefa8e3fe66e0603e",
+        "_move": {
+          "dest": {
+            "x": 12,
+            "y": 34,
+            "room": "E27N16"
+          },
+          "time": 57717739,
+          "path": "123581",
+          "room": "E27N16"
+        },
+        "target": "653c709e6c2a8f24f717eb24"
+      },
+      "57718061": {
+        "role": "CARRY",
+        "action": "DEPOSIT",
+        "target": "653c709e6c2a8f24f717eb24",
+        "source": "653c8634db4bc3c49d78a489",
+        "_move": {
+          "dest": {
+            "x": 20,
+            "y": 31,
+            "room": "E27N16"
+          },
+          "time": 57719443,
+          "path": "203065",
+          "room": "E27N16"
+        }
+      },
+      "57718106": {
+        "role": "CARRY",
+        "action": "DEPOSIT",
+        "target": "653c709e6c2a8f24f717eb24",
+        "_move": {
+          "dest": {
+            "x": 20,
+            "y": 31,
+            "room": "E27N16"
+          },
+          "time": 57719428,
+          "path": "193232",
+          "room": "E27N16"
+        },
+        "source": "653c8634db4bc3c49d78a489"
+      },
+      "57718156": {
+        "role": "CLAIMER",
+        "level": 2,
+        "roleTmp": "CLAIMER",
+        "_move": {
+          "dest": {
+            "x": 22,
+            "y": 32,
+            "room": "E27N16"
+          },
+          "time": 57719440,
+          "path": "22324",
+          "room": "E27N16"
+        }
+      },
+      "57718168": {
+        "role": "GLOBAL",
+        "level": 2,
+        "action": "EVEN",
+        "source": "55db34afefa8e3fe66e0603e",
+        "target": "653c709e6c2a8f24f717eb24",
+        "roleTmp": "GLOBAL",
+        "_move": {
+          "dest": {
+            "x": 12,
+            "y": 36,
+            "room": "E27N16"
+          },
+          "time": 57719444,
+          "path": "1735777776",
+          "room": "E27N16"
+        }
+      },
+      "57718192": {
+        "role": "BUILDER",
+        "level": 2,
+        "action": "FILLING",
+        "roleTmp": "BUILDER",
+        "_move": {
+          "dest": {
+            "x": 12,
+            "y": 34,
+            "room": "E27N16"
+          },
+          "time": 57719431,
+          "path": "133477",
+          "room": "E27N16"
+        }
+      },
+      "57718204": {
+        "role": "BUILDER",
+        "level": 2,
+        "action": "BUILDING",
+        "roleTmp": "BUILDER",
+        "_move": {
+          "dest": {
+            "x": 22,
+            "y": 34,
+            "room": "E27N16"
+          },
+          "time": 57719444,
+          "path": "153333333334",
+          "room": "E27N16"
+        }
+      },
+      "57718718": {
+        "role": "CLAIMER",
+        "level": 2,
+        "_move": {
+          "dest": {
+            "x": 12,
+            "y": 34,
+            "room": "E27N16"
+          },
+          "time": 57719444,
+          "path": "133366",
+          "room": "E27N16"
+        }
+      },
+      "57719221": {
+        "role": "GLOBAL",
+        "level": 2,
+        "action": "FILLING",
+        "source": "55db34afefa8e3fe66e0603e",
+        "target": "653c709e6c2a8f24f717eb24",
+        "_move": {
+          "dest": {
+            "x": 12,
+            "y": 36,
+            "room": "E27N16"
+          },
+          "time": 57719265,
+          "path": "123565",
+          "room": "E27N16"
+        }
+      }
+    },
+    "lastCleanup": 57719128
+  }
+}
