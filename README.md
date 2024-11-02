@@ -1,11 +1,21 @@
-# Screeps-LDA
+# 🕹️ Screeps-LDA
 
-Screeps-LDA is a powerful and extensible bot designed for the online strategy game [Screeps](https://screeps.com/). This project uses modular and scalable code to manage resources, expand colonies, and strategize combat—all with an emphasis on simplicity and performance.
+**Screeps-LDA** is a powerful, modular bot designed for the online strategy game [Screeps](https://screeps.com/). This project focuses on efficient resource management, colony expansion, and autonomous combat, all while keeping CPU usage low for a smoother gaming experience.
 
-## Features
+> **Note**: This project is currently in development.
 
-- **Efficient Resource Management**: Ensures optimal energy and mineral management across multiple colonies.
-- **Modular Colony Expansion**: Automatically detects and expands into nearby rooms when ready.
-- **Combat and Defense**: Autonomous defense strategies with flexible combat units for both defense and offense.
-- **Performance-Focused**: Streamlined AI for lower CPU usage, focusing on high efficiency with minimal server load.
-- **Easy Customization**: Easily tweak roles, behaviors, and strategies to fit your preferred playstyle.
+## ✨ Features
+
+- 🔋 **Resource Management**: Optimizes energy and mineral resources across multiple colonies.
+- 🏗️ **Colony Expansion**: Automatically detects and expands into nearby rooms when conditions are favorable.
+- 🛡️ **Defense and Combat**: Implements autonomous defense tactics with flexible units for both defense and offense.
+- ⚡ **Performance-Focused**: Lightweight AI, optimized for low CPU usage.
+- 🛠️ **Customizable**: Modify roles, behaviors, and strategies to fit your unique playstyle.
+- 🔒 **Private Server Support**: Extend support for private servers with more customization options.
+- 🏙️ **Room Planning**: Automated room layout planning for increased efficiency.
+
+## 🛠️ Roadmap
+
+- 🤖 **Enhanced Combat AI**: Develop smarter offensive tactics with adaptable targeting.
+
+---
